@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic tac toe multiplayer application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harnisha21/TicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harnisha21/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/harnisha21/TicTacToe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
